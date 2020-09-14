@@ -50,25 +50,24 @@ This course provides an applied approach to Deep Learning. The course is structu
 The first and third thematic blocks (CNNs and Transfer Learning & Embeddings) are taught by Dario Garcia-Gasulla. The second (RNNs) by Javier Bejar. The fourth (HPC and DL) by Marc Casas. This implies that comments on each block should be addressed to the corresponding teacher. Each block may have different methodologies.
 
 <a name='calendar'></a>
-### Course Calendar for the Spring 2019-2020 semester
+### Course Calendar for the Fall 2020-2021 semester
 
-- 13/02/20	FNN-CNN Theory	
-- 20/02/20	FNN-CNN Guid. Lab	
-- 27/02/20	FNN-CNN Aut. Lab	
-- 05/03/20  	RNN Theory	
-- 12/03/20	RNN Guid. Lab	
-- 19/03/20	RNN Aut. Lab	(Delivery 1st lab)
-- 26/03/20	Emb. Theory	
-- 02/04/20  	Emb. Guid. Lab	
-- 16/04/20	Emb. Aut. Lab	(Delivery 2nd lab)
-- 23/04/20	HPC-DL Theory	
-- 30/04/20	HPC-DL Guid. Lab	
-- 07/05/20	NO CLASS (change of schedule) (Delivery 3rd lab)	
-- 14/05/20  	HPC-DL Aut. Lab	  
-- 21/05/20	Presentation of theoretical works 1	
-- 28/05/20	Presentation of theoretical works 2 (Delivery 4th lab)
-- 04/06/20	Presentation of theoretical works 3
-- 11/06/20	Presentation of theoretical works 4	
+- 17/09/20	FNN-CNN Theory	
+- 01/10/20	FNN-CNN Guid. Lab	
+- 08/10/20	FNN-CNN Aut. Lab	
+- 15/10/20  	RNN Theory	
+- 22/10/20	RNN Guid. Lab	
+- 29/10/20	RNN Aut. Lab	(Delivery 1st lab)
+- 05/11/20	Emb. Theory	
+- 12/11/20  	Emb. Guid. Lab	
+- 19/11/20	Emb. Aut. Lab	(Delivery 2nd lab)
+- 26/11/20	HPC-DL Theory	
+- 03/12/20	HPC-DL Guid. Lab	
+- 10/12/20	NO CLASS (change of schedule) (Delivery 3rd lab)	
+- 17/12/20  	HPC-DL Aut. Lab	  
+- 07/01/21	Presentation of theoretical works 1 (Delivery 4th lab)
+- 14/01/21	Presentation of theoretical works 2 (IF NECESSARY)
+- 21/01/21	Presentation of theoretical works 3 (IF NECESSARY)
 
 
 
