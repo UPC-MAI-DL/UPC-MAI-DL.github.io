@@ -55,7 +55,7 @@ import matplotlib
 matplotlib.use('Agg')
 import matplotlib.pyplot as plt
 #Accuracy plot
-plt.plot(history.history['acc'])
+plt.plot(history.history['accuracy'])
 plt.title('model accuracy')
 plt.ylabel('accuracy')
 plt.xlabel('epoch')
