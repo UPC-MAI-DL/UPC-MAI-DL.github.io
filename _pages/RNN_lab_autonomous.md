@@ -4,8 +4,7 @@ permalink: /rnn-lab-autonomous/
 
 ## Recurrent Neural Networks (Autonomous Laboratory)
 
-This assignment is to be **solved individually**. You can repeat the partner from the previous 
-assignment or change it if you prefer.
+This assignment is to be **solved individually**.  
 
 The autonomous laboratory is open for your exploration. Using the basic code provided in the guided laboratory, 
 you should modify it to test different settings, and to understand the effect of the various components. 
