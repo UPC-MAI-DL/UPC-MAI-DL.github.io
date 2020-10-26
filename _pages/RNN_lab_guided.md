@@ -24,8 +24,6 @@ The goal of this example is to predict Air Quality of a site in the city of Lond
 given a window of the previous measurements measured as the number of particulates
 of 10 micrometers in air (PM10 ug/m3).
 
-This task is the base for the autonomous laboratory, so collect the results of your work with this data
-and use for comparing with the results of the experiments from the tasks in the autonomous laboratory.
 
 The data for this example has been extracted from the 
 [London Air website](http://www.londonair.org.uk/). This site provides
@@ -41,7 +39,7 @@ The data is sampled hourly since 1/1/2012 to 12/31/2016. There are 43848 observa
 8784 for 2012 (leap year), 8760 for 2013,2014 and 2015 and 8784 for 2016 (leap year) , 
 
 For this task we are going to use only the **PM10** variable for one
-site. You will use the rest of the data during the autonomous laboratory.
+site. You can extend the code so all the variables are used and also the information from other sites.
 
 The data and the code are in the `\AirQuality` directory. The file `LondonAQ.npz`
 contains the data matrices for all four sites. The data is in `npz` numpy format,
