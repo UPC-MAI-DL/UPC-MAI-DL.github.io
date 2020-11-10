@@ -35,8 +35,8 @@ def plot_training(history):
 
 
 img_width, img_height = 256, 256
-train_data_dir = "/gpfs/projects/bsc28/hpai/storage/data/datasets/original/mit67/train"
-validation_data_dir = "/gpfs/projects/bsc28/hpai/storage/data/datasets/original/mit67/test"
+train_data_dir = "/gpfs/projects/nct00/nct00001/mit67/train"
+validation_data_dir = "/gpfs/projects/nct00/nct00001/mit67/test"
 nb_train_samples = 5359
 nb_validation_samples = 1339 
 batch_size = 128
