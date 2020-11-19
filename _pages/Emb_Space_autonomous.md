@@ -4,9 +4,11 @@ permalink: /embedding-spaces-lab-autonomous/
 
 This page contains the guided laboratory of the Embedding Spaces topic for the Deep Learning course at the Master in Artificial Inteligence of the Universitat Politècnica de Catalunya.
 
-The slides used in the class are the following:
+Current version of the course has been afected by COVID situation. Ask the coordinator (dario.garcia) at bsc.es for exact details on this lab.
 
-*  [Slides](http://upc-mai-dl.github.io/files/2.3-Emb_and_TL_Autonomous lab_COVID.pdf)
+<>The slides used in the class are the following:
+
+<>*  [Slides](http://upc-mai-dl.github.io/files/2.3-Emb_and_TL_Autonomous lab_COVID.pdf)
 
 -------------------------------------------------
 -------------------------------------------------
