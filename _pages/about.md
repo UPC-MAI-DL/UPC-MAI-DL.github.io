@@ -140,7 +140,7 @@ Embeddings & Transfer Learning (lecturer: Dario Garcia)
 #### Lesson 4
 High Performance Computing Aspects of Deep Learning (lecturer: Marc Casas)
 - [Theory](https://drive.google.com/file/d/11hA3HMh5nZUVxp2IiNM9AVQ4vYDnyWqy/view?usp=sharing)
-- Lab Guided
+- [Lab Guided](https://drive.google.com/file/d/1HdJiWSfugnlVa2-45J5bvwIuMp4EVH3O/view?usp=sharing)
 - [Source Code](https://drive.google.com/file/d/1rp28G18HAITXJW1ZMuvTklAnpq4AxhIM/view?usp=sharing)
 
 <a name='code'></a>
