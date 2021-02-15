@@ -8,22 +8,22 @@ redirect_from:
     - /about.html
 ---
 
-The Table of Contents:
-
-- [About](#about)
-- [Lecturers](#lecturers)
-- [Course Structure](#structure)
-    - [Theory](#theory)
-    - [Guided Laboratory](#guided)
-    - [Autonomous Laboratory](#autonomous)
-- [Course Evaluation](#evaluation)
-- [Lessons](#lessons)
-    - [#1 Feedforward Nets and Conv Nets](#mlp_convnets)
-    - [#2 Recurrent Neural Nets](#rnn_nets)
-    - [#3 Transfer Learning and Embedding spaces](#embeddings)
-    - [#4 High Performance Computing Aspects of Deep Learning](#HPC) 
-- [Code and Lab Resources](#code)
-- [Papers of interest](#papers)
+ <>  The Table of Contents:
+ <>  
+ <>  - [About](#about)
+ <>  - [Lecturers](#lecturers)
+ <>  - [Course Structure](#structure)
+ <>      - [Theory](#theory)
+ <>      - [Guided Laboratory](#guided)
+ <>      - [Autonomous Laboratory](#autonomous)
+ <>  - [Course Evaluation](#evaluation)
+ <>  - [Lessons](#lessons)
+ <>      - [#1 Feedforward Nets and Conv Nets](#mlp_convnets)
+ <>      - [#2 Recurrent Neural Nets](#rnn_nets)
+ <>      - [#3 Transfer Learning and Embedding spaces](#embeddings)
+ <>      - [#4 High Performance Computing Aspects of Deep Learning](#HPC) 
+ <>  - [Code and Lab Resources](#code)
+ <>  - [Papers of interest](#papers)
 
 
 <a name='about'></a>
@@ -126,37 +126,37 @@ The first (CNNs) and second (Transfer Learning) labs are to be performed in coup
 - [Autonomous Lab: HPC](https://drive.google.com/file/d/1FDJkT2vG58wTj3L-N9Fx4HeTH1JPWizi/view?usp=sharing)
 - Presentation of theoretical works
 
- # <a name='mlp_convnets'></a>
- # #### Lesson 1
- # Feedforward Nets and Conv Nets (lecturer: Dario Garcia)
- # - [Theory](mlp-convnets-theory/)
- # - [Lab guided](mlp-convnets-lab-guided/)
- # - [Lab autonomous](mlp-convnets-lab-autonomous/)
- # 
- # 
- # <a name='rnn_nets'></a>
- # #### Lesson 2
- # Recurrent Neural Networks (lecturer: Javier Bejar)
- # 
- # - [Theory](rnn-theory)
- # - [Lab guided](rnn-lab-guided)
- # - [Lab autonomous](rnn-lab-autonomous)
- # 
- # 
- # <a name='embeddings'></a>
- # #### Lesson 3
- # Embeddings & Transfer Learning (lecturer: Dario Garcia)
- # 
- # - [Theory](emb-space-theory)
- # - [Lab guided](embedding-spaces-lab-guided)
- # - [Lab autonomous](embedding-spaces-lab-autonomous)
- # 
- # <a name='HPC'></a>
- # #### Lesson 4
- # High Performance Computing Aspects of Deep Learning (lecturer: Marc Casas)
- # - [Theory](https://drive.google.com/file/d/11hA3HMh5nZUVxp2IiNM9AVQ4vYDnyWqy/view?usp=sharing)
- # - [Lab Guided](https://drive.google.com/file/d/1HdJiWSfugnlVa2-45J5bvwIuMp4EVH3O/view?usp=sharing)
- # - [Source Code](https://drive.google.com/file/d/1rp28G18HAITXJW1ZMuvTklAnpq4AxhIM/view?usp=sharing)
+<> <a name='mlp_convnets'></a>
+<> #### Lesson 1
+<> Feedforward Nets and Conv Nets (lecturer: Dario Garcia)
+<> - [Theory](mlp-convnets-theory/)
+<> - [Lab guided](mlp-convnets-lab-guided/)
+<> - [Lab autonomous](mlp-convnets-lab-autonomous/)
+<> 
+<> 
+<> <a name='rnn_nets'></a>
+<> #### Lesson 2
+<> Recurrent Neural Networks (lecturer: Javier Bejar)
+<> 
+<> - [Theory](rnn-theory)
+<> - [Lab guided](rnn-lab-guided)
+<> - [Lab autonomous](rnn-lab-autonomous)
+<> 
+<> 
+<> <a name='embeddings'></a>
+<> #### Lesson 3
+<> Embeddings & Transfer Learning (lecturer: Dario Garcia)
+<> 
+<> - [Theory](emb-space-theory)
+<> - [Lab guided](embedding-spaces-lab-guided)
+<> - [Lab autonomous](embedding-spaces-lab-autonomous)
+<> 
+<> <a name='HPC'></a>
+<> #### Lesson 4
+<> High Performance Computing Aspects of Deep Learning (lecturer: Marc Casas)
+<> - [Theory](https://drive.google.com/file/d/11hA3HMh5nZUVxp2IiNM9AVQ4vYDnyWqy/view?usp=sharing)
+<> - [Lab Guided](https://drive.google.com/file/d/1HdJiWSfugnlVa2-45J5bvwIuMp4EVH3O/view?usp=sharing)
+<> - [Source Code](https://drive.google.com/file/d/1rp28G18HAITXJW1ZMuvTklAnpq4AxhIM/view?usp=sharing)
 
 
 <a name='code'></a>
