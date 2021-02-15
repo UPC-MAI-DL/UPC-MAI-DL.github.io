@@ -8,22 +8,22 @@ redirect_from:
     - /about.html
 ---
 
- <>  The Table of Contents:
- <>  
- <>  - [About](#about)
- <>  - [Lecturers](#lecturers)
- <>  - [Course Structure](#structure)
- <>      - [Theory](#theory)
- <>      - [Guided Laboratory](#guided)
- <>      - [Autonomous Laboratory](#autonomous)
- <>  - [Course Evaluation](#evaluation)
- <>  - [Lessons](#lessons)
- <>      - [#1 Feedforward Nets and Conv Nets](#mlp_convnets)
- <>      - [#2 Recurrent Neural Nets](#rnn_nets)
- <>      - [#3 Transfer Learning and Embedding spaces](#embeddings)
- <>      - [#4 High Performance Computing Aspects of Deep Learning](#HPC) 
- <>  - [Code and Lab Resources](#code)
- <>  - [Papers of interest](#papers)
+[//]: #  The Table of Contents:
+[//]: #  
+[//]: #  - [About](#about)
+[//]: #  - [Lecturers](#lecturers)
+[//]: #  - [Course Structure](#structure)
+[//]: #      - [Theory](#theory)
+[//]: #      - [Guided Laboratory](#guided)
+[//]: #      - [Autonomous Laboratory](#autonomous)
+[//]: #  - [Course Evaluation](#evaluation)
+[//]: #  - [Lessons](#lessons)
+[//]: #      - [#1 Feedforward Nets and Conv Nets](#mlp_convnets)
+[//]: #      - [#2 Recurrent Neural Nets](#rnn_nets)
+[//]: #      - [#3 Transfer Learning and Embedding spaces](#embeddings)
+[//]: #      - [#4 High Performance Computing Aspects of Deep Learning](#HPC) 
+[//]: #  - [Code and Lab Resources](#code)
+[//]: #  - [Papers of interest](#papers)
 
 
 <a name='about'></a>
