@@ -35,7 +35,6 @@ This is the official web page for the contents of the lectures from the Deep Lea
 ### Lecturers
 - Dario Garcia-Gasulla (Course coordinator, BSC, dario.garcia@bsc.es) (There are currently openings at <a href="http://hpai.bsc.es">HPAI-BSC</a>. Send me an email if you may be interested)
 - Marc Casas (BSC, marc.casas@bsc.es)
-- Javier Bejar (UPC-CS, bejar@cs.upc.edu)
 
 ### Before starting...
 
@@ -45,30 +44,32 @@ This course provides access to supercomputing clusters to perform the labs. Befo
 <a name='structure'></a>
 ### Course Structure
 
-This course provides an applied approach to Deep Learning. The course is structured in 4 thematic blocks, and each block as 3 parts: theory, guided laboratory and autonomous laboratory.
+This course provides an applied approach to Deep Learning. It chooses to present an overview of methods and approaches, instead of going in full detail of any particular aspect.
+The course has three types of sessions. Theory (most content provided by lecturer often through slides), guided laboratory (content provided by lecturer to be used by students) and autonomous laboratory (work by students with support from lecturer available).
 
-The first and third thematic blocks (CNNs and Transfer Learning & Embeddings) are taught by Dario Garcia-Gasulla. The second (RNNs) by Javier Bejar. The fourth (HPC and DL) by Marc Casas. This implies that comments on each block should be addressed to the corresponding teacher. Each block may have different methodologies.
+Most of the course (CNNs, RNNs, Transfer Learning and Transformers) are taught by Dario Garcia-Gasulla. The High Performance Computing (HPC) part is taught by Marc Casas. This implies that comments on each block should be addressed to the corresponding teacher. Each block may have different methodologies.
 
 <a name='calendar'></a>
 ### Course Calendar for the Fall 2020-2021 semester
 
-- 17/09/20	FNN-CNN Theory	
-- 01/10/20	FNN-CNN Guid. Lab	
-- 08/10/20	FNN-CNN Aut. Lab	
-- 15/10/20  	RNN Theory	
-- 22/10/20	RNN Guid. Lab	
-- 29/10/20	RNN Aut. Lab	(Delivery 1st lab)
-- 05/11/20	Emb. Theory	
-- 12/11/20  	Emb. Guid. Lab	
-- 19/11/20	Emb. Aut. Lab	(Delivery 2nd lab)
-- 26/11/20	HPC-DL Theory	
-- 03/12/20	HPC-DL Guid. Lab	
-- 10/12/20	NO CLASS (change of schedule) (Delivery 3rd lab)	
-- 17/12/20  	HPC-DL Aut. Lab	  
-- 07/01/21	Presentation of theoretical works 1 (Delivery 4th lab)
-- 14/01/21	Presentation of theoretical works 2 (IF NECESSARY)
-- 21/01/21	Presentation of theoretical works 3 (IF NECESSARY)
 
+- 18/02/21 Theory: Common DL
+- 25/02/21 Theory: CNNs
+- 04/03/21 Guided Lab: CNNs
+- 11/03/21 Autonomous Lab: CNNs
+- 18/03/21 Theory: RNNs
+- 28/03/21 Theory: Transformers
+- 08/04/21 Theory: Transfer Learning (Delivery CNN lab)
+- 15/04/21 Guided Lab: Transfer Learning
+- 22/04/21 Autonomous Lab: Transfer Learning
+- 28/04/21 Theory: HPC (Delivery Transfer Learning lab)
+- 06/05/21 Guided Lab: HPC
+- 13/05/21 Autonomous Lab: HPC
+- 20/05/21 Presentation of theoretical works 1 (Delivery HPC lab)
+- 27/05/21 Presentation of theoretical works 2
+- 03/06/21 Presentation of theoretical works 3 
+- 10/06/21 Presentation of theoretical works 4 
+- 17/06/21 Presentation of theoretical works 5 
 
 
 
@@ -90,7 +91,7 @@ The autonomous laboratory session is intended for students to experiment with De
 
 <a name='overlap'></a>
 ### Overlap with other courses
-For some of the thematic blocks (specially the first one) there is a significant amount of overlap with other courses. However, this course is oriented towards practical aspects of deep learning. This means that theory is not given in thorough detail (as other courses may do), and that a significant amount of autonomous work is expected.
+For some of the thematic blocks there is a significant amount of overlap with other courses. However, this course is oriented towards practical aspects of deep learning. This means that theory is not given in thorough detail (as other courses may do), and that a significant amount of autonomous work is expected.
 
 <a name='evaluation'></a>
 ### Course Evaluation
@@ -102,46 +103,60 @@ The course is evaluated 25% by theory comprehension and 75% by experimental work
 - Are there flaws in the paper methodology?
 - What future work can derive from this paper?
 
-The experimental evaluation will be based on reports for each thematic block, illustrating the conclusions derived from the laboratory sessions. Each thematic block will define the specifics of the experimental work. Alternative experimental reports suggested by the student are also acceptable, previous validation from the lecturers (e.g., replicating a particular paper results, or evaluating a different approach than the one suggested by the lecturers).
+The 75% experimental evaluation will be based on reports for each thematic block, illustrating the conclusions derived from the laboratory sessions. Each thematic block will define the specifics of the experimental work. Alternative experimental reports suggested by the student are also acceptable, previous validation from the lecturers (e.g., replicating a particular paper results, or evaluating a different approach than the one suggested by the lecturers).
 
-#### FNN-CNN / Transfer Learning & Embeddings lab
+#### CNN / Transfer Learning lab
 
-The labs for the first and third blocks are to be performed in couples. Students are free to arrange couples as they see fit. Partners can be the same for both blocks or not. The evaluation of the lab will be done in a 40 minutes personal interview between the lecturer (Dario Garcia-Gasulla in this case) and the two students. Both students will be evaluated separately. This interview will be in the form of an oral report: You are expected to explain the problem you faced and the solutions you proposed, while the lecturer asks questions about the particularities of the problem, and the reasoning behing your decisions. While most of the interview will be oral, you should bring a number of supporting material (digital format is fine). These personal interviews will be scheduled during the course.
+The first (CNNs) and second (Transfer Learning) labs are to be performed in couples. Students are free to arrange couples as they see fit. Partners can be the same for both labs or not. The evaluation of the lab will be done in a 30 minutes interview between the lecturer (Dario Garcia-Gasulla in this case) and the two students. Both students will be asked to respond separately on different aspects of the lab. This interview will be in the form of an oral report: You are expected to explain the problem you faced and the solutions you proposed, while the lecturer asks questions about the particularities of the problem, and the reasoning behing your decisions. While most of the interview will be oral, you should bring a number of supporting material (digital format is fine). These personal interviews will be scheduled during the course, shortly after the corresponding delivery date.
 
 <a name='lessons'></a>
 ### Lessons
 
-<a name='mlp_convnets'></a>
-#### Lesson 1
-Feedforward Nets and Conv Nets (lecturer: Dario Garcia)
-- [Theory](mlp-convnets-theory/)
-- [Lab guided](mlp-convnets-lab-guided/)
-- [Lab autonomous](mlp-convnets-lab-autonomous/)
+- [Theory: Common DL](theory-common-dl/)
+- [Theory: CNNs]
+- Guided Lab: CNNs
+- Autonomous Lab: CNNs
+- Theory: RNNs
+- Theory: Transformers
+- Theory: Transfer Learning 
+- Guided Lab: Transfer Learning
+- Autonomous Lab: Transfer Learning
+- [Theory: HPC](https://drive.google.com/file/d/1VkYjo_dpbuzuKakY83oaVyiJxtBsC2yG/view?usp=sharing)
+- [Guided Lab: HPC](https://drive.google.com/file/d/11q1ProzEGSrWMMLJirucsUw1cRAk1lz7/view?usp=sharing)
+- [Autonomous Lab: HPC](https://drive.google.com/file/d/1FDJkT2vG58wTj3L-N9Fx4HeTH1JPWizi/view?usp=sharing)
+- Presentation of theoretical works
 
-
-<a name='rnn_nets'></a>
-#### Lesson 2
-Recurrent Neural Networks (lecturer: Javier Bejar)
-
-- [Theory](rnn-theory)
-- [Lab guided](rnn-lab-guided)
-- [Lab autonomous](rnn-lab-autonomous)
-
-
-<a name='embeddings'></a>
-#### Lesson 3
-Embeddings & Transfer Learning (lecturer: Dario Garcia)
-
-- [Theory](emb-space-theory)
-- [Lab guided](embedding-spaces-lab-guided)
-- [Lab autonomous](embedding-spaces-lab-autonomous)
-
-<a name='HPC'></a>
-#### Lesson 4
-High Performance Computing Aspects of Deep Learning (lecturer: Marc Casas)
-- [Theory](https://drive.google.com/file/d/1VkYjo_dpbuzuKakY83oaVyiJxtBsC2yG/view?usp=sharing)
-- [Lab Guided](https://drive.google.com/file/d/11q1ProzEGSrWMMLJirucsUw1cRAk1lz7/view?usp=sharing)
-- [Source Code](https://drive.google.com/file/d/1FDJkT2vG58wTj3L-N9Fx4HeTH1JPWizi/view?usp=sharing)
+ # <a name='mlp_convnets'></a>
+ # #### Lesson 1
+ # Feedforward Nets and Conv Nets (lecturer: Dario Garcia)
+ # - [Theory](mlp-convnets-theory/)
+ # - [Lab guided](mlp-convnets-lab-guided/)
+ # - [Lab autonomous](mlp-convnets-lab-autonomous/)
+ # 
+ # 
+ # <a name='rnn_nets'></a>
+ # #### Lesson 2
+ # Recurrent Neural Networks (lecturer: Javier Bejar)
+ # 
+ # - [Theory](rnn-theory)
+ # - [Lab guided](rnn-lab-guided)
+ # - [Lab autonomous](rnn-lab-autonomous)
+ # 
+ # 
+ # <a name='embeddings'></a>
+ # #### Lesson 3
+ # Embeddings & Transfer Learning (lecturer: Dario Garcia)
+ # 
+ # - [Theory](emb-space-theory)
+ # - [Lab guided](embedding-spaces-lab-guided)
+ # - [Lab autonomous](embedding-spaces-lab-autonomous)
+ # 
+ # <a name='HPC'></a>
+ # #### Lesson 4
+ # High Performance Computing Aspects of Deep Learning (lecturer: Marc Casas)
+ # - [Theory](https://drive.google.com/file/d/1VkYjo_dpbuzuKakY83oaVyiJxtBsC2yG/view?usp=sharing)
+ # - [Lab Guided](https://drive.google.com/file/d/11q1ProzEGSrWMMLJirucsUw1cRAk1lz7/view?usp=sharing)
+ # - [Source Code](https://drive.google.com/file/d/1FDJkT2vG58wTj3L-N9Fx4HeTH1JPWizi/view?usp=sharing)
 
 <a name='code'></a>
 ### Code and Lab Resources
