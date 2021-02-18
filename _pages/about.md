@@ -112,7 +112,7 @@ The first (CNNs) and second (Transfer Learning) labs are to be performed in coup
 <a name='lessons'></a>
 ### Lessons
 
-- [Theory: Common DL](theory-common-dl/)
+- [Theory: Common DL](http://upc-mai-dl.github.io/files/1.Teory Common_DL.pdf)
 - Theory: CNNs
 - Guided Lab: CNNs
 - Autonomous Lab: CNNs
