@@ -58,7 +58,7 @@ Most of the course (CNNs, RNNs, Transfer Learning and Transformers) are taught b
 - 04/03/21 Guided Lab: CNNs
 - 11/03/21 Autonomous Lab: CNNs
 - 18/03/21 Theory: RNNs
-- 28/03/21 Theory: Transformers
+- 25/03/21 Theory: Transformers
 - 08/04/21 Theory: Transfer Learning 
 - 15/04/21 Guided Lab: Transfer Learning (Delivery CNN lab)
 - 22/04/21 Autonomous Lab: Transfer Learning
