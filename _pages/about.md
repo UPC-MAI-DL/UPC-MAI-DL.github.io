@@ -53,24 +53,22 @@ Most of the course (CNNs, RNNs, Transfer Learning and Transformers) are taught b
 ### Course Calendar for the Fall 2020-2021 semester
 
 
-- 18/02/21 Theory: Common DL
-- 25/02/21 Theory: CNNs
-- 04/03/21 Guided Lab: CNNs
-- 11/03/21 Autonomous Lab: CNNs
-- 18/03/21 Theory: RNNs
-- 25/03/21 Theory: Transformers
-- 08/04/21 Theory: Transfer Learning 
-- 15/04/21 Guided Lab: Transfer Learning (Delivery CNN lab)
-- 22/04/21 Autonomous Lab: Transfer Learning
-- 29/04/21 Theory: HPC 
-- 06/05/21 Guided Lab: HPC (Delivery Transfer Learning lab)
-- 13/05/21 Autonomous Lab: HPC
-- 20/05/21 Presentation of theoretical works 1
-- 27/05/21 Presentation of theoretical works 2
-- 01/06/21 Delivery HPC lab
-- 03/06/21 Presentation of theoretical works 3 
-- 10/06/21 Presentation of theoretical works 4 
-- 17/06/21 Presentation of theoretical works 5 
+- 16/09/21 Theory: Common DL
+- 23/09/21 Theory: CNNs
+- 30/09/21 Guided Lab: CNNs
+- 07/10/21 Autonomous Lab: CNNs
+- 14/10/21 Theory: RNNs
+- 21/10/21 Theory: Transformers
+- 28/10/21 Theory: Transfer Learning 
+- 11/11/21 Guided Lab: Transfer Learning (Delivery CNN lab)
+- 18/11/21 Autonomous Lab: Transfer Learning
+- 25/11/21 Theory: HPC 
+- 02/12/21 Guided Lab: HPC (Delivery Transfer Learning lab)
+- 09/12/21 Autonomous Lab: HPC
+- 16/12/21 Presentation of theoretical works 
+- 13/01/21 Presentation of theoretical works 
+- 20/01/21 Presentation of theoretical works
+- 27/01/21 Presentation of theoretical works  
 
 
 
