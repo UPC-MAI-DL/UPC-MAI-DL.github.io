@@ -59,13 +59,14 @@ Most of the course (CNNs, RNNs, Transfer Learning and Transformers) are taught b
 - 07/10/21 Autonomous Lab: CNNs
 - 14/10/21 Theory: RNNs
 - 21/10/21 Theory: Transformers
-- 28/10/21 Theory: Transfer Learning 
-- 11/11/21 Guided Lab: Transfer Learning (Delivery CNN lab)
+- 28/10/21 Theory: Transfer Learning (Delivery CNN lab)
+- 11/11/21 Guided Lab: Transfer Learning 
 - 18/11/21 Autonomous Lab: Transfer Learning
 - 25/11/21 Theory: HPC 
-- 02/12/21 Guided Lab: HPC (Delivery Transfer Learning lab)
-- 09/12/21 Autonomous Lab: HPC
-- 16/12/21 Presentation of theoretical works 
+- 02/12/21 Guided Lab: HPC 
+- 09/12/21 Autonomous Lab: HPC (Delivery Transfer Learning lab)
+- 16/12/21 Presentation of theoretical works
+- 31/12/21 (Delivery HPC lab)
 - 13/01/21 Presentation of theoretical works 
 - 20/01/21 Presentation of theoretical works
 - 27/01/21 Presentation of theoretical works  
