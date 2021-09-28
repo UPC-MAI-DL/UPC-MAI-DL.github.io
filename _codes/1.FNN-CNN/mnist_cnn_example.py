@@ -10,10 +10,6 @@ from keras.datasets import mnist
 print( 'Number of train examples', x_train.shape[0])
 print( 'Size of train examples', x_train.shape[1:])
 
-#Adapt the data as an input of a fully-connected (flatten to 1D)
-x_train = x_train.reshape(60000, 784)
-x_test = x_test.reshape(10000, 784)
-
 #Normalize data
 x_train = x_train.astype('float32')
 x_test = x_test.astype('float32')
@@ -37,7 +33,7 @@ from keras.models import Sequential
 from keras.layers import Dense, Activation, Conv2D, MaxPooling2D, Flatten
 #Two hidden layers
 model = Sequential()
-model.add(Conv2D(8, 3, 3, activation='relu', input_shape=input_shape))
+model.add(Conv2D(8, (3, 3), activation='relu', input_shape=input_shape))
 model.add(MaxPooling2D(pool_size=(2, 2)))
 model.add(Conv2D(16, 3, 3, activation='relu'))
 model.add(MaxPooling2D(pool_size=(2, 2)))
