@@ -1,6 +1,6 @@
 import os
 from keras import applications
-import keras.backend as K
+from tensorflow.compat.v1.keras import backend as K
 from fne import full_network_embedding
 from sklearn.metrics import classification_report,confusion_matrix
 import numpy as np
