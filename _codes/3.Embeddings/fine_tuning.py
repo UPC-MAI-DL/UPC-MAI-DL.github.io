@@ -45,15 +45,15 @@ target_classes = 67
 
 model = applications.VGG16(weights = "imagenet", include_top=False, input_shape = (img_width, img_height, 3))
 
-# Freeze the layers which you don't want to train. Here I am freezing the first 5 layers.
-for layer in model.layers[:5]:
+# Freeze the layers which you don't want to train. Here I am freezing the first 10 layers.
+for layer in model.layers[:10]:
     layer.trainable = False
 
 #Adding custom Layers 
 x = model.output
 x = Flatten()(x)
 x = Dense(512, activation="relu")(x)
-x = Dropout(0.5)(x)
+x = Dropout(0.2)(x)
 x = Dense(512, activation="relu")(x)
 predictions = Dense(67, activation="softmax")(x)
 
