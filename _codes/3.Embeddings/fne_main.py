@@ -17,7 +17,7 @@ if __name__ == '__main__':
     target_layer_names = ['block1_conv1', 'block1_conv2', 'block2_conv1', 'block2_conv2', 'block3_conv1', 'block3_conv2',
                           'block3_conv3', 'block4_conv1', 'block4_conv2', 'block4_conv3', 'block5_conv1', 'block5_conv2',
                           'block5_conv3', 'fc1', 'fc2']
-
+    
     # Define data splits
     # Train set
     train_path = '/gpfs/projects/nct00/nct00001/mit67/train/'
