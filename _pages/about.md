@@ -122,7 +122,7 @@ The first (CNNs) and second (Transfer Learning) labs are to be performed in coup
 - [Theory: Transfer Learning](http://upc-mai-dl.github.io/files/7.Theory.Transfer_Learning.pdf)
 - [Guided Lab: Transfer Learning](http://upc-mai-dl.github.io/files/8.Guided_Lab.TL.pdf)
 - [Autonomous Lab: Transfer Learning](http://upc-mai-dl.github.io/files/9.Autonomous_Lab.TL.pdf)
-- [Theory: HPC](https://drive.google.com/file/d/1vOeeTA5LXHhSnkbICZ5H_KQ3tDkv0DvP/view?usp=sharing)
+- [Theory: HPC](https://drive.google.com/file/d/1BoWEAL6mM0YtFKrKK9tppbXNuX_N7Rtc/view?usp=sharing)
 - [Guided Lab: HPC]
 - [Autonomous Lab: HPC source code]
 - [Presentation of theoretical works](http://upc-mai-dl.github.io/files/10.Theory_presentations.pdf)
@@ -155,9 +155,9 @@ The first (CNNs) and second (Transfer Learning) labs are to be performed in coup
 [//]: # <a name='HPC'></a>
 [//]: # #### Lesson 4
 [//]: # High Performance Computing Aspects of Deep Learning (lecturer: Marc Casas)
-[//]: # - [Theory](https://drive.google.com/file/d/11hA3HMh5nZUVxp2IiNM9AVQ4vYDnyWqy/view?usp=sharing)
-[//]: # - [Lab Guided](https://drive.google.com/file/d/1HdJiWSfugnlVa2-45J5bvwIuMp4EVH3O/view?usp=sharing)
-[//]: # - [Source Code](https://drive.google.com/file/d/1rp28G18HAITXJW1ZMuvTklAnpq4AxhIM/view?usp=sharing)
+[//]: # - [Theory](https://drive.google.com/file/d/1BoWEAL6mM0YtFKrKK9tppbXNuX_N7Rtc/view?usp=sharing)
+[//]: # - [Lab Guided]
+[//]: # - [Source Code]
 
 
 <a name='code'></a>
