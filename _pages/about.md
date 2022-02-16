@@ -50,26 +50,25 @@ The course has three types of sessions. Theory (most content provided by lecture
 Most of the course (CNNs, RNNs, Transfer Learning and Transformers) are taught by Dario Garcia-Gasulla. The High Performance Computing (HPC) part is taught by Marc Casas. This implies that comments on each block should be addressed to the corresponding teacher. Each block may have different methodologies.
 
 <a name='calendar'></a>
-### Course Calendar for the Fall 2020-2021 semester
+### Course Calendar for the Spring 2021-2022 semester
 
 
-- 16/09/21 Theory: Common DL
-- 23/09/21 Theory: CNNs
-- 30/09/21 Guided Lab: CNNs
-- 07/10/21 Autonomous Lab: CNNs
-- 14/10/21 Theory: RNNs
-- 21/10/21 Theory: Transformers
-- 28/10/21 Theory: Transfer Learning (Delivery CNN lab)
-- 11/11/21 Guided Lab: Transfer Learning 
-- 18/11/21 Autonomous Lab: Transfer Learning
-- 25/11/21 Theory: HPC 
-- 02/12/21 Guided Lab: HPC 
-- 09/12/21 Autonomous Lab: HPC (Delivery Transfer Learning lab)
-- 16/12/21 Presentation of theoretical works
-- 31/12/21 (Delivery HPC lab)
-- 13/01/21 Presentation of theoretical works 
-- 20/01/21 Presentation of theoretical works
-- 27/01/21 Presentation of theoretical works  
+- 17/02/22 Theory: Basic DL
+- 24/02/22 Theory: CNNs
+- 03/03/22 Guided Lab: CNNs
+- 10/03/22 Autonomous Lab: CNNs
+- 17/03/22 Theory: RNNs
+- 24/03/22 Theory: Transformers
+- 31/03/22 NO CLASS - Delivery CNN lab
+- 07/04/22 Theory: Transfer Learning (Delivery CNN lab)
+- 21/04/22 Guided Lab: Transfer Learning 
+- 28/04/22 Autonomous Lab: Transfer Learning
+- 05/05/22 Theory: HPC 
+- 12/05/22 Guided Lab: HPC 
+- 19/05/22 Autonomous Lab: HPC (Delivery Transfer Learning lab)
+- 26/05/22 Presentation of theoretical works
+- 02/06/22 Presentation of theoretical works 
+- 09/06/22 Presentation of theoretical works (Delivery HPC lab) 
 
 
 
