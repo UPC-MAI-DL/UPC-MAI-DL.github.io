@@ -59,8 +59,8 @@ Most of the course (CNNs, RNNs, Transfer Learning and Transformers) are taught b
 - 10/03/22 Autonomous Lab: CNNs
 - 17/03/22 Theory: RNNs
 - 24/03/22 Theory: Transformers
-- 31/03/22 NO CLASS - Delivery CNN lab
-- 07/04/22 Theory: Transfer Learning (Delivery CNN lab)
+- 31/03/22 NO CLASS (Delivery CNN lab)
+- 07/04/22 Theory: Transfer Learning
 - 21/04/22 Guided Lab: Transfer Learning 
 - 28/04/22 Autonomous Lab: Transfer Learning
 - 05/05/22 Theory: HPC 
