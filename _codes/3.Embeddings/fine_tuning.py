@@ -58,7 +58,7 @@ x = Dense(512, activation="relu")(x)
 predictions = Dense(67, activation="softmax")(x)
 
 # creating the final model 
-model_final = Model(inputs = model.input, output = predictions)
+model_final = Model(model.input, predictions)
 
 # compile the model 
 model_final.compile(loss = "categorical_crossentropy", optimizer = optimizers.SGD(lr=0.0001, momentum=0.9), metrics=["accuracy"])
