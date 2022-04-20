@@ -2,7 +2,6 @@ import os
 import tensorflow as tf
 from sklearn.metrics import classification_report, confusion_matrix
 from fne import full_network_embedding
-tf.enable_eager_execution()
 
 if __name__ == '__main__':
     # This shows an example of calling the full_network_embedding method using

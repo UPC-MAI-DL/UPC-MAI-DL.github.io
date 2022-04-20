@@ -2,9 +2,6 @@ import numpy as np
 import tensorflow as tf
 import cv2
 
-tf.enable_eager_execution()
-
-
 def full_network_embedding(model, image_paths, batch_size, target_layer_names, input_reshape, stats=None):
     ''' 
     Generates the Full-Network embedding[1] of a list of images using a pre-trained
