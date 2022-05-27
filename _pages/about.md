@@ -23,7 +23,7 @@ redirect_from:
 [//]: #      - [#3 Transfer Learning and Embedding spaces](#embeddings)
 [//]: #      - [#4 High Performance Computing Aspects of Deep Learning](#HPC) 
 [//]: #  - [Code and Lab Resources](#code)
-<> [//]: #  - [Papers of interest](#papers)
+[//]: #  - [Papers of interest](#papers)
 
 
 <a name='about'></a>
@@ -169,25 +169,25 @@ The codes used in the lab sessions can be downloaded from the following location
 
 
 
-<> <a name='papers'></a>
-<> ### Papers of Interest
-<> 
-<> For the evaluation of the theoretical aspects of the course, we offer a list of papers of interest which the student may chose to read and review. These are loosely categorized. We strongly suggest that the student choose papers not found on that list, according to their own interest. The newer the paper, the best.
-<> 
-<> [Papers of interests](papers-of-interest/)
-<> 
-<> <a name='toread'></a>
-<> ### Stuff to read
-<> 
-<> - [A post describing the ideas behind ResNet, Inception and Xception is simple terms](https://towardsdatascience.com/an-intuitive-guide-to-deep-network-architectures-65fdc477db41)
-<> - [A post reviewing the most relevant architectures proposed, and their contributions](https://towardsdatascience.com/neural-network-architectures-156e5bad51ba)
-<> - [Troubling Trends in Machine Learning Scholarship](http://approximatelycorrect.com/2018/07/10/troubling-trends-in-machine-learning-scholarship/) A position paper regarding frequent problems with current machine learning papers, and tips on how to avoid them.
-<> - [Differences between L1 and L2 as Loss Function and Regularization](http://www.chioka.in/differences-between-l1-and-l2-as-loss-function-and-regularization/)
-<> - [Basic concepts and cheatsheets on ML](https://stanford.edu/~shervine/teaching/cs-229.html)
-<> - [List of interesting papers with available code. Interesting for replicating their results and playing around on top.](https://github.com/zziz/pwc)
-<> - [A look at how many architectures and multimodalities are in fact the same basic operations: Feature-wise Linear Modulation or FiLM](https://distill.pub/2018/feature-wise-transformations/)
-<> - [Some details on the memory-related issues of Deep Learning](https://www.graphcore.ai/posts/why-is-so-much-memory-needed-for-deep-neural-networks)
-<> - [GAN lab: To play around with GANs playground style](https://poloclub.github.io/ganlab/)
-<> - [ILSVRC labeling game](https://cs.stanford.edu/people/karpathy/ilsvrc/)
-<> - [Visualizing Neural Network Layer Activation - Tensorflow tutorial](https://medium.com/@awjuliani/visualizing-neural-network-layer-activation-tensorflow-tutorial-d45f8bf7bbc4)
-<> - [MIT intro to deep learning](http://introtodeeplearning.com/)
+[//]: # <a name='papers'></a>
+[//]: # ### Papers of Interest
+[//]: # 
+[//]: # For the evaluation of the theoretical aspects of the course, we offer a list of papers of interest which the student may chose to read and review. These are loosely categorized. We strongly suggest that the student choose papers not found on that list, according to their own interest. The newer the paper, the best.
+[//]: # 
+[//]: # [Papers of interests](papers-of-interest/)
+[//]: # 
+[//]: # <a name='toread'></a>
+[//]: # ### Stuff to read
+[//]: # 
+[//]: # - [A post describing the ideas behind ResNet, Inception and Xception is simple terms](https://towardsdatascience.com/an-intuitive-guide-to-deep-network-architectures-65fdc477db41)
+[//]: # - [A post reviewing the most relevant architectures proposed, and their contributions](https://towardsdatascience.com/neural-network-architectures-156e5bad51ba)
+[//]: # - [Troubling Trends in Machine Learning Scholarship](http://approximatelycorrect.com/2018/07/10/troubling-trends-in-machine-learning-scholarship/) A position paper regarding frequent problems with current machine learning papers, and tips on how to avoid them.
+[//]: # - [Differences between L1 and L2 as Loss Function and Regularization](http://www.chioka.in/differences-between-l1-and-l2-as-loss-function-and-regularization/)
+[//]: # - [Basic concepts and cheatsheets on ML](https://stanford.edu/~shervine/teaching/cs-229.html)
+[//]: # - [List of interesting papers with available code. Interesting for replicating their results and playing around on top.](https://github.com/zziz/pwc)
+[//]: # - [A look at how many architectures and multimodalities are in fact the same basic operations: Feature-wise Linear Modulation or FiLM](https://distill.pub/2018/feature-wise-transformations/)
+[//]: # - [Some details on the memory-related issues of Deep Learning](https://www.graphcore.ai/posts/why-is-so-much-memory-needed-for-deep-neural-networks)
+[//]: # - [GAN lab: To play around with GANs playground style](https://poloclub.github.io/ganlab/)
+[//]: # - [ILSVRC labeling game](https://cs.stanford.edu/people/karpathy/ilsvrc/)
+[//]: # - [Visualizing Neural Network Layer Activation - Tensorflow tutorial](https://medium.com/@awjuliani/visualizing-neural-network-layer-activation-tensorflow-tutorial-d45f8bf7bbc4)
+[//]: # - [MIT intro to deep learning](http://introtodeeplearning.com/)
