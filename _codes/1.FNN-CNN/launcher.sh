@@ -4,7 +4,7 @@
 
 #SBATCH --qos=debug
 
-#SBATCH --workdir=.
+#SBATCH -D .
 
 #SBATCH --output=test_mnist_%j.out
 
