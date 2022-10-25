@@ -19,7 +19,7 @@ if __name__ == '__main__':
     
     # Define data splits
     # Train set
-    train_path = '/gpfs/projects/nct00/nct00001/mit67/train/'
+    train_path = '/gpfs/projects/nct00/nct00038/mit67/train/'
     train_images = []
     train_labels = []
     # Use a subset of classes to speed up the process. -1 uses all classes.
@@ -33,7 +33,7 @@ if __name__ == '__main__':
         if num_classes == 0:
             break
     # Test set
-    test_path = '/gpfs/projects/nct00/nct00001/mit67/test/'
+    test_path = '/gpfs/projects/nct00/nct00038/mit67/test/'
     test_images = []
     test_labels = []
     num_classes = 3
