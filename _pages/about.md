@@ -122,8 +122,8 @@ The first (CNNs) and second (Transfer Learning) labs are to be performed in coup
 - [Guided Lab: Transfer Learning](http://upc-mai-dl.github.io/files/8.Guided_Lab-TL.pdf)
 - [Autonomous Lab: Transfer Learning](http://upc-mai-dl.github.io/files/9.Autonomous_Lab-TL.pdf)
 - [Theory: HPC](https://drive.google.com/file/d/1Ky-Hpa9GVvLE_DQaJXytR57bsTc5iO8R/view?usp=sharing)
-- [Guided Lab: HPC]
-- [Autonomous Lab: HPC source code]
+- [Guided Lab: HPC](https://drive.google.com/file/d/1kccVvIjmfpgkUydE57vz1nQd-boxy3VP/view?usp=sharing)
+- [Autonomous Lab: HPC source code](https://drive.google.com/file/d/1Sqrl4WLlM0JolR5P6KAjC_2z3s6JMjov/view?usp=sharing)
 - [Presentation of theoretical works](http://upc-mai-dl.github.io/files/10.Theory_presentations.pdf)
 
 [//]: # <a name='mlp_convnets'></a>
