@@ -53,21 +53,21 @@ Most of the course (CNNs, RNNs, Transfer Learning and Transformers) are taught b
 ### Course Calendar for the Autum 2022-2023 semester
 
 
-- 08/09/22 Theory: Basic DL
-- 15/09/22 Theory: CNNs
-- 22/09/22 Theory: Batch Norm
-- 29/09/22 Guided/Autonomous Lab: CNNs (delivery 20/10)
-- 06/10/22 Theory: RNNs
-- 13/10/22 Theory: Transformers
-- 20/10/22 Theory: Transfer Learning
-- 27/10/22 Guided Lab: Transfer Learning 
-- 10/11/22 Autonomous Lab: Transfer Learning (delivery 01/12)
-- 17/11/22 Theory: HPC 
-- 24/11/22 Guided Lab: HPC 
-- 01/12/22 Autonomous Lab: HPC (delivery 12/01)
-- 15/12/22 Presentation of theoretical works
-- 22/12/22 Presentation of theoretical works 
-- 12/01/23 Presentation of theoretical works 
+- 16/02/23 Theory: Basic DL 
+- 23/02/23 Theory: CNNs 
+- 02/03/23 Theory: Batch Norm 
+- 09/03/23 Guided/Autonomous Lab: CNNs (delivery 30/03) 
+- 16/03/23 Theory: RNNs 
+- 23/03/23 Theory: Transformers 
+- 30/03/23 Theory: Transfer Learning 
+- 13/04/23 Guided Lab: Transfer Learning 
+- 20/04/23 Autonomous Lab: Transfer Learning (delivery 11/05) 
+- 27/04/23 Theory: HPC 
+- 04/05/23 Guided Lab: HPC 
+- 11/05/23 Autonomous Lab: HPC (delivery 01/06) 
+- 18/05/23 Presentation of theoretical works 
+- 25/05/23 Presentation of theoretical works 
+- 01/06/23 Presentation of theoretical works 
 
 
 
