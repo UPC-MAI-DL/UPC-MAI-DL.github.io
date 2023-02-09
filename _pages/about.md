@@ -64,7 +64,7 @@ Most of the course (CNNs, RNNs, Transfer Learning and Transformers) are taught b
 - 20/04/23 Autonomous Lab: Transfer Learning (delivery 11/05) 
 - 27/04/23 Theory: HPC 
 - 04/05/23 Guided Lab: HPC 
-- 11/05/23 Autonomous Lab: HPC (delivery 01/06) 
+- 11/05/23 Autonomous Lab: HPC
 - 18/05/23 Presentation of theoretical works 
 - 25/05/23 Presentation of theoretical works 
 - 01/06/23 Presentation of theoretical works 
