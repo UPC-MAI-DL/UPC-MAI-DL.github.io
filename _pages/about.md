@@ -22,6 +22,7 @@ redirect_from:
 [comment]: #      - [#2 Recurrent Neural Nets](#rnn_nets)
 [comment]: #      - [#3 Transfer Learning and Embedding spaces](#embeddings)
 [comment]: #      - [#4 High Performance Computing Aspects of Deep Learning](#HPC) 
+[comment]: #      - [#5 Transformers](#transformers)
 [comment]: #  - [Code and Lab Resources](#code)
 [comment]: #  - [Papers of interest](#papers)
 
