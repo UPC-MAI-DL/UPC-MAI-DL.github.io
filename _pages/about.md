@@ -55,13 +55,12 @@ Most of the course (CNNs, RNNs, Transfer Learning and Transformers) are taught b
 
 - 16/02/23 Theory: Basic DL 
 - 23/02/23 Theory: CNNs 
-- 02/03/23 Theory: Batch Norm 
-- 09/03/23 Guided/Autonomous Lab: CNNs (delivery 30/03) 
+- 02/03/23 Lab: CNNs (delivery 29/03)
+- 09/03/23 Theory: Batch Norm  
 - 16/03/23 Theory: RNNs 
 - 23/03/23 Theory: Transformers 
 - 30/03/23 Theory: Transfer Learning 
-- 13/04/23 Guided Lab: Transfer Learning 
-- 20/04/23 Autonomous Lab: Transfer Learning (delivery 11/05) 
+- 13/04/23 Lab: Transfer Learning (delivery 11/5) 
 - 27/04/23 Theory: HPC 
 - 04/05/23 Guided Lab: HPC 
 - 11/05/23 Autonomous Lab: HPC
