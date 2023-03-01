@@ -56,7 +56,7 @@ Most of the course (CNNs, RNNs, Transfer Learning and Transformers) are taught b
 
 - 16/02/23 Theory: Basic DL 
 - 23/02/23 Theory: CNNs 
-- 02/03/23 Lab: CNNs (delivery 29/03)
+- 02/03/23 Lab: CNNs (delivery 13/04)
 - 09/03/23 Theory: Batch Norm  
 - 16/03/23 Theory: RNNs 
 - 23/03/23 Theory: Transformers 
