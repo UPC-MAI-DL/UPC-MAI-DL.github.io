@@ -34,7 +34,7 @@ This is the official web page for the contents of the lectures from the Deep Lea
 
 <a name='lecturers'></a>
 ### Lecturers
-- Dario Garcia-Gasulla (Course coordinator, BSC, dario.garcia@bsc.es) (There are currently openings at <a href="http://hpai.bsc.es">HPAI-BSC</a>. Send me an email if you may be interested)
+- Dario Garcia-Gasulla (Course coordinator, BSC, dario.garcia@bsc.es) 
 - Marc Casas (BSC, marc.casas@bsc.es)
 
 ### Before starting...
@@ -51,23 +51,23 @@ The course has three types of sessions. Theory (most content provided by lecture
 Most of the course (CNNs, RNNs, Transfer Learning and Transformers) are taught by Dario Garcia-Gasulla. The High Performance Computing (HPC) part is taught by Marc Casas. This implies that comments on each block should be addressed to the corresponding teacher. Each block may have different methodologies.
 
 <a name='calendar'></a>
-### Course Calendar for the Autum 2022-2023 semester
+### Course Calendar for the Autum 2023-2024 semester
 
-
-- 16/02/23 Theory: Basic DL 
-- 23/02/23 Theory: CNNs 
-- 02/03/23 Lab: CNNs (delivery 13/04)
-- 09/03/23 Theory: Batch Norm  
-- 16/03/23 Theory: RNNs 
-- 23/03/23 Theory: Transformers 
-- 30/03/23 Theory: Transfer Learning 
-- 13/04/23 Lab: Transfer Learning (delivery 11/5) 
-- 27/04/23 Theory: HPC 
-- 04/05/23 Guided Lab: HPC 
-- 11/05/23 Autonomous Lab: HPC
-- 18/05/23 Presentation of theoretical works 
-- 25/05/23 Presentation of theoretical works 
-- 01/06/23 Presentation of theoretical works 
+- 07/09/23 Theory: Basic DL
+- 14/09/23 Theory: CNNs
+- 21/09/23 Theory: Batch Norm
+- 28/09/23 Lab: CNNs
+- 05/10/23 Theory: RNNs
+- 18/10/23 Theory: Transformers
+- 26/10/23 Theory: Transfer Learning
+- 09/11/23 Lab: Transfer Learning (Delivery first lab)
+- 16/11/23 Theory: HPC
+- 23/11/23 Guided Lab: HPC
+- 30/11/23 Autonomous Lab: HPC (Delivery second lab)
+- 14/12/23 Presentation of theoretical works
+- 21/12/23 Presentation of theoretical works
+- 11/01/24 Presentation of theoretical works
+- 18/01/24 Presentation of theoretical works
 
 
 
