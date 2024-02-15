@@ -51,7 +51,7 @@ The course has three types of sessions. Theory (most content provided by lecture
 Most of the course (CNNs, RNNs, Transfer Learning and Transformers) are taught by Dario Garcia-Gasulla. The High Performance Computing (HPC) part is taught by Marc Casas. This implies that comments on each block should be addressed to the corresponding teacher. Each block may have different methodologies.
 
 <a name='calendar'></a>
-### Course Calendar for the Autum 2023-2024 semester
+### Course Calendar for the Spring 2023-2024 semester
 
 - (1) 16/02: Basic DL
 - (2) 23/02: CNNs
