@@ -55,11 +55,11 @@ Most of the course (CNNs, RNNs, Transfer Learning and Transformers) are taught b
 
 - (1) 16/02: Basic DL
 - (2) 23/02: CNNs
-- (3) 01/03: Batch Norm
-- (4) 08/03: Lab1: CNNs
-- (5) 15/03: RNNs
-- (6) 22/03: Transformers
-- (7) 12/04: Transfer learning
+- (3) 01/03: Lab1 Guided: CNNs
+- (4) 08/03: RNNs
+- (5) 15/03: Transformers
+- (6) 22/03: TBD
+- (7) 12/04: Transfer learning (Delivery 1st lab)
 - (8) 19/04: Lab2: Transfer learning
 - (9) 26/04: HPC
 - (10) 03/05: Lab3: HPC
