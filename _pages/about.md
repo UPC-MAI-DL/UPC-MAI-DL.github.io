@@ -153,9 +153,9 @@ The first (CNNs) and second (Transfer Learning) labs are to be performed in coup
 [//]: # <a name='HPC'></a>
 [//]: # #### Lesson 4
 [//]: # High Performance Computing Aspects of Deep Learning (lecturer: Marc Casas)
-[//]: # - [Theory](https://drive.google.com/file/d/1BoWEAL6mM0YtFKrKK9tppbXNuX_N7Rtc/view?usp=sharing)
-[//]: # - [Lab Guided]
-[//]: # - [Source Code]
+[//]: # - [Theory](https://drive.google.com/file/d/1XvirldcjSH8V1QywxKuHLhwGcMGtntWd/view?usp=sharing)
+[//]: # - Lab Guided
+[//]: # - Source Code
 
 
 <a name='code'></a>
