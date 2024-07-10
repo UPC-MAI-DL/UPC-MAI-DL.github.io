@@ -27,6 +27,9 @@ redirect_from:
 [comment]: #  - [Papers of interest](#papers)
 
 
+# THIS WEBSITE IS DEPRECATED. IT HOSTS THE CONTENTS OF THE DL COURSE FROM 2017 TO JUNE 2024. FOR THE CONTENTS FOR THE CURRENT DL COURSE AT MAI SEE RACO.
+
+
 <a name='about'></a>
 ### About
 This is the official web page for the contents of the lectures from the Deep Learning course, at the Master in Artificial Intelligence from UPC. Here you can find basic information as well as everything needed to follow the course.
